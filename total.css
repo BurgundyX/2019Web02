@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.indent{text-indent:6em;}
+.indent2{text-indent: 10em;}
+.center{text-align: center;}
+body{
+font-size: 20px;
+background-color:#FDF5E6;
+color:#2F4F4F;
+background-attachment: fixed;
+	
+}
